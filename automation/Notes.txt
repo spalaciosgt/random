@@ -10,6 +10,9 @@
 
 #
 #
+# git status
+# git add <directory/file>
+# git push
+# git commit
 #
-# 
 #
